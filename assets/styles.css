@@ -288,7 +288,7 @@ body {
     z-index:1000;
     position: absolute;
     top: 48%;
-    /*left: 38%;*/
+    left: -5%;
    }
 
 .spinner .dashed-loading {
