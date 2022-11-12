@@ -278,10 +278,10 @@ body {
 }
 
   .name{
-    /* font-family: 'Mr Dafoe'; */
-      position: absolute;
+    width: 100%;
+    position: absolute;
     top: 48%;
-    left: 36%;
+    /* left: 36%; */
     margin: 0;
     font-size: 3.5em;
     /* margin-top: -0.6em; */
@@ -289,7 +289,7 @@ body {
     text-shadow: 0 0 0.05em #fff, 0 0 0.2em #fe05e1, 0 0 0.3em #fe05e1;
     transform: rotate(-7deg);
     z-index:1000;
-  
+    text-align: center;
    }
 
 .spinner .dashed-loading {
